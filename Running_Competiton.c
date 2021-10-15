@@ -12,7 +12,7 @@ int main (int argc,char * argv[]) {
     printf("%d\n", n);
     c = fgetc(fin);
     c = fgetc(fin);
-    
+    printf("Hello");
     fclose(fin);
 
     for (i = 0; i < k; i++) {
