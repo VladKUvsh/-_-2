@@ -1,0 +1,3 @@
+[submodule "first submodule"]
+	path = first submodule
+	url = https://github.com/Chebura6/gitk
